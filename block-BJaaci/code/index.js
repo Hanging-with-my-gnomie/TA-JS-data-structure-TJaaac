@@ -31,7 +31,7 @@ Use the variable named movies to solve the requirement below.
 */
 
 // 1. Log the value of the title key in the first movie of the array named `movies`
-
+moviestitle[0];
 // 2. Log the value of the title key in the last movie of the array named `movies`
 
 // 3. Log the value of the title key in the second movie (index 1) of the array named `movies`
