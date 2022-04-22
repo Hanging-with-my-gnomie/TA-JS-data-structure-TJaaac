@@ -17,7 +17,9 @@ Hint: (Structure of got variable)
   - people is an array of all persons living in that particular house
   - And, each person is an object with "name" and "description" properties
 */
-
+ let got = {
+   
+ }
 // 1. Log the value of key "houses"
 
 // 2. Log the length of the "houses" key
